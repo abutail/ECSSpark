@@ -1,6 +1,6 @@
 # ECSSpark
 Fargate
-This an example that creates an ECS task to run a Spark application and automatically scales based on the number of messages in an Amazon SQS queue. I’ll provide a detailed walkthrough including the code for a simple Spark application.
+This an example that creates an ECS task to run a Spark application and automatically scales based on the number of messages in an Amazon SQS queue.This particular scenario can be used for cases where you want to process files via serverless fargate containers using Standalone Spark. I’ll provide a detailed walkthrough including the code for a simple Spark application.
 
 Step 1: Spark Application
 
